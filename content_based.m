@@ -1,4 +1,5 @@
-%Providing equal weights to all features.
+% Providing equal weights to all features.
+% Uses Cosine Similarity (Content based Filtering )
 
 clc;
 clear all;
