@@ -2,7 +2,7 @@
 A Facebook Profile-Based Gift Book Recommender System <br>
 <b>Methodology Used : </b><br>
 <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.31.04%20PM.png" 
-height="300" width="300"/>
+height="500" width="300" align="center"/> <br>
 <b>Algorithms Used : </b><br>
 <ol type="1">
 <li>Collaborative Algorithm</li>
