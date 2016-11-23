@@ -1,5 +1,5 @@
 # BookMart
-A Facebook Profile-Based Gift Book Recommender System <br>
+A Facebook Profile-Based Gift Book Recommender System <br><br>
 <b>Methodology Used : </b><br>
 <p align="center">
 <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.31.04%20PM.png" 
@@ -32,7 +32,7 @@ height="500" width="500" align="center"/></p>
 In the case of Facebook profile data, ratings are unary: either a user likes an item (thereby making a positive association), or not. The absence of a ‘like’ can be interpreted either as a dislike or ignorance about the item. We therefore chose to use the Precision, because the unary rating scale makes the task of recommending books more like a classification problem. We define Precision as follows, where ri denotes a book recommended to the user and L denotes the set of books liked by the user.
 We have used Precision to calculate the final results.</p>
 <p align="center">
- <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.46%20PM.png"/><br>
+ <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.46%20PM.png" height="50"/><br>
 Precision of various algorithms used:<br>
 <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.50.12%20PM.png" width="450"/>
 </p>
