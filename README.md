@@ -17,9 +17,9 @@ A Facebook Profile-Based Gift Book Recommender System
 <p align="center">
 <ol type="1">
 <li>Content based Filtering - Cosine Similarity</li>
- <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.25%20PM.png" width="600" height="80"/><br>
+ <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.25%20PM.png" width="650" height="80"/><br>
  <li> Jaccard Similarity (Item-Item based Collaborative Filtering)</li>
-  <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.34%20PM.png" width="500" height="80"/>
+  <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.34%20PM.png" width="550" height="80"/>
  </ol> 
 </p>
  Results Obtained
@@ -27,6 +27,7 @@ A Facebook Profile-Based Gift Book Recommender System
 In the case of Facebook profile data, ratings are unary: either a user likes an item (thereby making a positive association), or not. The absence of a ‘like’ can be interpreted either as a dislike or ignorance about the item. We therefore chose to use the Precision, because the unary rating scale makes the task of recommending books more like a classification problem. We define Precision as follows, where ri denotes a book recommended to the user and L denotes the set of books liked by the user.
 We have used Precision to calculate the final results.</p>
 <p align="center">
- <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.46%20PM.png" width="350"/>
+ <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.46%20PM.png" width="350"/><br>
+<img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.31.14%20PM.png" width="350"/>
 </p>
 
