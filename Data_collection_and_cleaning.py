@@ -1,3 +1,6 @@
+% Face API Data collection, cleaning (removal of stop words, pre-processing)
+% Created csv file containing user info, books liked, categories of book
+
 import json
 import csv
 import unicodedata
