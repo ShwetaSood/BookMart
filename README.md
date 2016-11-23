@@ -28,7 +28,7 @@ In the case of Facebook profile data, ratings are unary: either a user likes an 
 We have used Precision to calculate the final results.</p>
 <p align="center">
  <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.46%20PM.png"/><br>
-Precision of various algorithms used:
+Precision of various algorithms used:<br>
 <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.50.12%20PM.png" width="450"/>
 </p>
 
