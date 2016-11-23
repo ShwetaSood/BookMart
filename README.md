@@ -1,7 +1,9 @@
 # BookMart
-A Facebook Profile-Based Gift Book Recommender System
+A Facebook Profile-Based Gift Book Recommender System <br>
+Methodology Used<br>
+<img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.31.04%20PM.png"/>
 <ol type="1">
-<li>Collaborative Algorithms</li>
+<li>Collaborative Algorithm</li>
   <p> Item-based Collaborative Filtering - If two items tend to have the same users like and dislike them, then they are similar and users are expected to have similar preferences for similar items. Item based similarity is deduced from user preferences rather than item metadata.</p>
 <li>Content Based Filtering</li>
   <p>Algorithms that attempt to recommend items that are similar to items the user liked in the past. They treat the recommendation problem as a search for related items. Items selected for recommendation are items whose content correlates the most with the user's preferences. Content based algorithms analyze item descriptions to identify items that are of particular interest.</p>
@@ -18,7 +20,7 @@ A Facebook Profile-Based Gift Book Recommender System
 <ol type="1">
 <li>Content based Filtering - Cosine Similarity</li>
  <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.25%20PM.png" width="650" height="80"/><br>
- <li> Jaccard Similarity (Item-Item based Collaborative Filtering)</li>
+ <li>Item-Item based Collaborative Filtering - Jaccard Similarity</li>
   <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.34%20PM.png" width="550" height="80"/>
  </ol> 
 </p>
