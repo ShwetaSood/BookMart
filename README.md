@@ -15,10 +15,10 @@ A Facebook Profile-Based Gift Book Recommender System
  </ol>
  Similarity measures used:
 <p align="center">
- <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.25%20PM.png" width="350" height="100"/><br>
+ <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.25%20PM.png" width="350" height="80"/><br>
  </p>
  <p align="center">
-  <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.34%20PM.png" width="350" height="100"/>
+  <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.34%20PM.png" width="350" height="80"/>
 </p>
  Results Obtained
 <p>
