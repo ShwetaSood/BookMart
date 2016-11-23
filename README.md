@@ -15,10 +15,12 @@ A Facebook Profile-Based Gift Book Recommender System
  </ol>
  Similarity measures used:
 <p align="center">
- <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.25%20PM.png" width="550" height="80"/><br>
- </p>
- <p align="center">
-  <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.34%20PM.png" width="450" height="80"/>
+<ol type="1">
+<li>Content based Filtering - Cosine Similarity</li>
+ <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.25%20PM.png" width="600" height="80"/><br>
+ <li> Jaccard Similarity (Item-Item based Collaborative Filtering)</li>
+  <img src="https://github.com/ShwetaSood/BookMart/blob/master/photos/Screen%20Shot%202016-11-23%20at%201.29.34%20PM.png" width="500" height="80"/>
+ </ol> 
 </p>
  Results Obtained
 <p>
